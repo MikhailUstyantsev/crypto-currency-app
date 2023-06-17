@@ -44,17 +44,20 @@ Technical features:
 
 
 <img src="https://github.com/MikhailUstyantsev/crypto-currency-app/assets/99423990/26a89e69-58a1-41e4-b050-e1383df27cb5" width="250">
+
 Основной список
 
 _____________________
 
 <img src="https://github.com/MikhailUstyantsev/crypto-currency-app/assets/99423990/05766571-c23c-4647-8b62-a2cff32348af" width="250">
+
 Портфолио пользователя
 
 _____________________
 
 
 <img src="https://github.com/MikhailUstyantsev/crypto-currency-app/assets/99423990/6daefb85-6899-4778-9543-9d7e71c044ca" width="250">
+
 Экран редактирования портфолио
 
 
