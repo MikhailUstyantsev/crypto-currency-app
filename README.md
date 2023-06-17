@@ -43,4 +43,4 @@ Technical features:
 - Multi-threading (using background threads)
 
 
-![Simulator Screen Shot - iPhone 14 Pro Max - 2023-06-17 at 15 57 06](https://github.com/MikhailUstyantsev/crypto-currency-app/assets/99423990/26a89e69-58a1-41e4-b050-e1383df27cb5)
+![Simulator Screen Shot - iPhone 14 Pro Max - 2023-06-17 at 15 57 06](https://github.com/MikhailUstyantsev/crypto-currency-app/assets/99423990/26a89e69-58a1-41e4-b050-e1383df27cb5 | width = 200)
