@@ -48,9 +48,7 @@ Technical features:
 </div>
 
 <p align="center">
-  <mark>
-    Основной список
-  </mark>
+    Основной список / Main list
 </p>
 
 
@@ -59,7 +57,7 @@ Technical features:
 </div>
 
 <p align="center">
- <mark>Портфолио пользователя</mark>
+ Портфолио пользователя / User's portfolio
 </p>
 
 
@@ -68,7 +66,7 @@ Technical features:
 </div>
 
 <p align="center">
-  <mark>Экран редактирования портфолио</mark>
+  <mark Экран редактирования портфолио </mark>
 </p>
 
 
