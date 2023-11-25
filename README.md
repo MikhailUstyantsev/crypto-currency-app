@@ -51,16 +51,26 @@ Technical features:
   Основной список
 </p>
 
-<img src="https://github.com/MikhailUstyantsev/crypto-currency-app/assets/99423990/05766571-c23c-4647-8b62-a2cff32348af" width="250">
 
-Портфолио пользователя
+<div align="center">
+  <img src="https://github.com/MikhailUstyantsev/crypto-currency-app/assets/99423990/05766571-c23c-4647-8b62-a2cff32348af" width="250"/>
+</div>
 
-_____________________
+<p align="center">
+  Портфолио пользователя
+</p>
 
 
-<img src="https://github.com/MikhailUstyantsev/crypto-currency-app/assets/99423990/6daefb85-6899-4778-9543-9d7e71c044ca" width="250">
+<div align="center">
+  <img src="https://github.com/MikhailUstyantsev/crypto-currency-app/assets/99423990/6daefb85-6899-4778-9543-9d7e71c044ca" width="250"/>
+</div>
 
-Экран редактирования портфолио
+<p align="center">
+  Экран редактирования портфолио
+</p>
+
+
+
 
 
 
