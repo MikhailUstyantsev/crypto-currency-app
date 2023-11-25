@@ -43,11 +43,13 @@ Technical features:
 - Multi-threading (using background threads)
 
 
-<img src="https://github.com/MikhailUstyantsev/crypto-currency-app/assets/99423990/26a89e69-58a1-41e4-b050-e1383df27cb5" width="250">
+<div align="center">
+  <img src="https://github.com/MikhailUstyantsev/crypto-currency-app/assets/99423990/26a89e69-58a1-41e4-b050-e1383df27cb5" width="250"/>
+</div>
 
-Основной список
-
-_____________________
+<p align="center">
+  Основной список
+</p>
 
 <img src="https://github.com/MikhailUstyantsev/crypto-currency-app/assets/99423990/05766571-c23c-4647-8b62-a2cff32348af" width="250">
 
