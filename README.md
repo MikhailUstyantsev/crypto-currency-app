@@ -66,7 +66,7 @@ Technical features:
 </div>
 
 <p align="center">
-  <mark Экран редактирования портфолио /mark>
+  Экран редактирования портфолио / Portfolio editing screen
 </p>
 
 
