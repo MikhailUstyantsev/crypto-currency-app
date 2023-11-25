@@ -48,7 +48,9 @@ Technical features:
 </div>
 
 <p align="center">
-  <mark>Основной список</mark>
+  <mark>
+    Основной список
+  </mark>
 </p>
 
 
